@@ -1,5 +1,5 @@
 # Cricket_Analysis
-Access cricket data from ESPN Cricinfo and aggregate into a Pandas dataframe/excel sheet to analyse the impact of rain-affected matches on team/individual statistics.
+Access cricket data from ESPN Cricinfo and aggregate into a Pandas dataframe/excel sheet to analyse the impact of rain-affected draws on team/individual statistics.
  
 # Requirements
 To access the cricinfo data, you will need to use my version of dwillis' python-espncricinfo (https://github.com/JJWilliams27/python-espncricinfo) which allows access to full batting and bowling scorecards.
